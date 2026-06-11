@@ -4,7 +4,7 @@ import gc
 
 
 common_passwords = {
-    "123456", "password", "admin", "qwerty", "welcome", "abc123", "DecodeLab@123"
+    "123456", "password", "admin", "welcome", "abc123", "decodelab@123"
 }
 
 raw_input = input("Enter password: ")
